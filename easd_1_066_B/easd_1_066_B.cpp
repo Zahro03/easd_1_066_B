@@ -53,7 +53,7 @@ void mergeSort(int arr[], int left, int right)
 	}
 }
 
-// fungsi untuk mencetak array
+// fungsi untuk mencetak array 
 void printArray(int arr[], int size)
 {
 	for (int i = 0; i < size; i++)
