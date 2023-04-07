@@ -74,7 +74,7 @@ int main()
 
 	cout << "\nArray setelah diurutkan: \n";
 	printArray(arr, arr_size);
-	return 0;
+	return 0; 
 }
 
 //Karena algoritma adalah langkah-langkah yang terstruktur dan terurut dengan jelas yang direncanakan
