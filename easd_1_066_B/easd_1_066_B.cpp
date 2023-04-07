@@ -39,7 +39,7 @@ void merge(int arr[], int left, int mid, int right)
 	}
 }
 
-// fungsi rekursif untuk mengimplementasikan Merge sort
+// fungsi rekursif untuk mengimplementasikan Merge sort 
 void mergeSort(int arr[], int left, int right)
 {
 	if (left < right) {
