@@ -68,7 +68,7 @@ int main()
 	int arr_size = sizeof(arr) / sizeof(arr[0]);
 
 	cout << "Array sebelum diurutkan: \n";
-	printArray(arr, arr_size);
+	printArray(arr, arr_size); 
 
 	mergeSort(arr, 0, arr_size - 1);
 
