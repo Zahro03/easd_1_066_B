@@ -61,7 +61,7 @@ void printArray(int arr[], int size)
 	cout << endl;
 }
 
-// program utama
+// program utama 
 int main()
 {
 	int arr[] = { 12, 11, 13, 5, 6, 7 };
